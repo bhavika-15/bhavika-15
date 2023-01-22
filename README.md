@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavika
-- 👀 I’m a newbie in Python!
-- 🌱 I’m currently practicing and learning Python!
+- 👀 You can find my projects here!
+- 🌱 Forever a passionate learner.
 
 
 <!---
